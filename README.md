@@ -285,4 +285,4 @@ Run the compiled program:
 4. **Compile and Run**:
    - Navigate to the project directory and compile the program using `make`. Run the program to interact with the Bank Management System.
 
-This project will give you hands-on experience with C programming, including working with files, structures, and basic command-line interfaces. If you need further guidance or more advanced features, feel free to ask!
+This project will give you hands-on experience with C programming, including working with files, structures, and basic command-line interfaces. If you need further guidance or more advanced features.
